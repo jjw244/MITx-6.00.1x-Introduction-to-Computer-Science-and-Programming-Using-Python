@@ -28,7 +28,7 @@ The problem, of course, is that you don’t know the shift. But our encryption m
  It is possible to have a message that can be decoded by two separate shifts into different sets of words. 
  While there are various strategies for deciding between ambiguous decryptions, for this problem we are only looking for a simple solution.
 
-Fill in the methods in the class CiphertextMessage acording to the specifications in ps6.py. 
+Fill in the methods in the class CiphertextMessage according to the specifications in ps6.py. 
 The methods you should fill in are:
 
     - __init__(self, text): Use the parent class constructor to make your code more concise.
